@@ -16,3 +16,7 @@ You can find our terms and conditions here:
 ## How to reach us
 You can send us an email at:
 `mes1.rnker@gmail.com`
+
+## Credits
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
