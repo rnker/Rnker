@@ -1,7 +1,7 @@
 # Welcome to Rnker
 
 ## What is Ranker
-Rnker provides you with monthly ranking for the taekwondo players who qualified to Tokyo 2020 Olympics. The player list will be updated regularly, with new rankings/scores each month. You can also view a predicted drawsheet for a specific month.
+Rnker provides you with monthly Taekwondo player's rankings (Olympic rankings / World rankings) and tournament rankings and their expected draw sheet. Rankings are updated regularly and kept up-to-date.
 
 ## Where to download
 You can find Rnker on the iOS App Store.
