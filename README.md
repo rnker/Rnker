@@ -4,8 +4,11 @@
 Rnker provides you with monthly ranking for the taekwondo players who qualified to Tokyo 2020 Olympics. The player list will be updated regularly, with new rankings/scores each month. You can also view a predicted drawsheet for a specific month.
 
 ## Where to download
-You can find Rnker on the App Store. (We currently only support iOS)
-[Download from here](https://apps.apple.com/jp/app/rnker/id1499652559?l=en)
+You can find Rnker on the iOS App Store.
+([Download from here](https://apps.apple.com/jp/app/rnker/id1499652559?l=en))
+
+You can find Rnker on the Android Play Store.
+([Download from here](https://play.google.com/store/apps/details?id=app.rnker.android))
 
 You can find our privacy policy here:
 [Privacy Policy](https://github.com/rnker/Rnker/blob/master/Rnker%20-%20Privacy%20Policy.pdf)
